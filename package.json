@@ -99,7 +99,7 @@
     "rollup-plugin-terser": "^6.1.0",
     "svelte": "^3.22.3",
     "svelte-jester": "^1.0.6",
-    "xo": "^0.32.0"
+    "xo": "^0.41.0"
   },
   "husky": {
     "hooks": {
